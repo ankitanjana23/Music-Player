@@ -1,5 +1,3 @@
-# Music-Player
-Creating a Music Player by using HTML , CSS , Java Script  With an intuitive interface and essential controls, users can easily play and pause their favorite songs. This project demonstrates my skills in front-end web development and showcases my ability to create functional and user-friendly applications.
 
 Music Player (HTML/CSS/JavaScript)
 
